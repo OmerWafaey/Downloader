@@ -49,5 +49,3 @@ bash
 1. Launch the application.
 2. Enter the required details for file downloading, backup source, destination, email subject, and body.
 3. Schedule the job to run at your desired time.
-### GUI Preview
-![GUI Preview](Capture.PNG) 
