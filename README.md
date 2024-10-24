@@ -49,3 +49,6 @@ bash
 1. Launch the application.
 2. Enter the required details for file downloading, backup source, destination, email subject, and body.
 3. Schedule the job to run at your desired time.
+### GUI Preview
+![Downloader](https://github.com/user-attachments/assets/c9a2a7da-c3c7-42e4-8a86-c4a7d848c138)
+
